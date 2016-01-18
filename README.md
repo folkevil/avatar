@@ -11,7 +11,7 @@ Display unique avatar for any user based on their name. Can be used as default a
 Via Composer
 
 ``` bash
-$ composer require laravolt/avatar
+$ composer require folkevil/avatar
 ```
 ## Service Provider
 ``` php
